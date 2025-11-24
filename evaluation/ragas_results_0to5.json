@@ -1,0 +1,92 @@
+[
+  {
+    "question":"What are early symptoms of COPD?",
+    "answer":"### Summary\nEarly symptoms of COPD include chronic cough, phlegm production, and increasing breathlessness. Risk factors include tobacco exposure, occupational exposure, indoor air pollution, and childhood respiratory issues.\n\n### Possible Causes\n- Destruction of lung tissue\n- Mucus blocking airways\n- Inflammation and swelling of airway lining\n- Tobacco exposure\n- Occupational exposure\n- Indoor air pollution\n- Childhood respiratory issues\n- Genetic conditions (alpha-1 antitrypsin deficiency)\n\n### Red Flags\n- Severe breathlessness\n- Chest pain\n- Rapid heart rate\n- Frequent lung infections\n- Swelling in ankles, feet, or legs\n\n### Recommended Actions\n- Avoid tobacco and second-hand smoke\n- Avoid occupational and indoor air pollution\n- Get vaccines\n- Use inhaled bronchodilators\n- Consider inhaled steroids\n- Practice pulmonary rehabilitation exercises\n- Consider oxygen therapy\n- Consider surgery for severe cases\n\n### Safety Disclaimer\nEarly detection and management of COPD can help improve symptoms and prevent complications. However, always consult a healthcare professional for accurate diagnosis and treatment.",
+    "relevance":3,
+    "faithfulness":5,
+    "correctness":3,
+    "context_precision":3.1355726719,
+    "context_recall":3.5923041403
+  },
+  {
+    "question":"What symptoms suggest an asthma attack is getting worse?",
+    "answer":":\n\n### Summary\nSymptoms of asthma can worsen, indicating an asthma attack. Common symptoms include persistent cough, wheezing, shortness of breath, chest tightness, and difficulty breathing, especially during exercise or at night.\n\n### Possible Causes\n- Family history of asthma or other allergic conditions\n- Exposure to triggers such as dust, smoke, fumes, pollen, animal fur, strong soaps, and perfume\n- Early life events, including low birth weight, prematurity, exposure to tobacco smoke, and viral respiratory infections\n\n### Red Flags\n- Severe shortness of breath or difficulty breathing, even when at rest\n- Rapid heart rate or pulse\n- Blue lips or fingertips\n- Anxiety or confusion\n- Inability to speak or complete sentences\n- Rapid breathing or grunting\n- Chest pain or pressure\n- Loss of consciousness\n\n### Recommended Actions\n- Use a spacer device when using an inhaler\n- Follow the prescribed asthma action plan\n- Avoid triggers\n- Seek emergency medical help if symptoms worsen or if red flags are present\n\n### Safety Disclaimer\nIf you suspect an asthma attack or have severe symptoms, seek emergency medical help immediately.",
+    "relevance":3,
+    "faithfulness":5,
+    "correctness":3,
+    "context_precision":3.0055819452,
+    "context_recall":3.0075876415
+  },
+  {
+    "question":"When should someone with a cough and fever worry about pneumonia?",
+    "answer":"### Summary\nA cough and fever can be symptoms of pneumonia, a potentially serious lung infection.\n\n### Possible Causes\n- Viruses (common in children under 5)\n- Bacteria (common causes include Streptococcus pneumoniae and Haemophilus influenzae)\n- Fungi (common in HIV-infected infants, such as Pneumocystis jiroveci)\n- Transmission: inhaling viruses or bacteria, airborne droplets, or blood spread\n\n### Red Flags\n- Difficulty feeding or drinking\n- Unconsciousness\n- Hypothermia\n- Convulsions\n\n### Recommended Actions\n- Seek medical attention if symptoms persist or worsen\n- Antibiotic treatment for confirmed cases\n- Prevention: immunization against Hib, pneumococcus, measles, and whooping cough; adequate nutrition; addressing environmental factors\n\n### Safety Disclaimer\nAlways consult a healthcare professional for medical advice.",
+    "relevance":3,
+    "faithfulness":5,
+    "correctness":3,
+    "context_precision":2.5049779564,
+    "context_recall":3.1326211989
+  },
+  {
+    "question":"How does influenza usually present in adults?",
+    "answer":"### Summary\nSeasonal influenza is a common acute respiratory infection caused by influenza viruses. It usually presents with symptoms such as fever, cough, sore throat, body aches, and fatigue. Most people recover within a week.\n\n### Possible Causes\n- Infection with influenza viruses (types A, B, C, or D)\n\n### Red Flags\n- Severe illness or complications in pregnant women, children under 5 years of age, older people, individuals with chronic medical conditions, or immunosuppressed individuals\n- High risk of transmission in crowded areas, schools, or nursing homes\n\n### Recommended Actions\n- Rest and drink plenty of liquids\n- Cover mouth and nose with a tissue when coughing and wash hands regularly to prevent transmission\n- Vaccination is the best way to prevent the disease\n\n### Safety Disclaimer\nVaccination is recommended for high-risk individuals and health workers to prevent the spread of influenza.",
+    "relevance":3,
+    "faithfulness":5,
+    "correctness":3,
+    "context_precision":3.1688813865,
+    "context_recall":3.4330910444
+  },
+  {
+    "question":"What are red flags for serious breathing problems?",
+    "answer":":\n\n### Summary\n- User is asking about red flags for serious breathing problems.\n\n### Possible Causes\n- Asthma: Inflammation and narrowing of airways, symptoms include cough, wheeze, shortness of breath, and chest tightness.\n- COPD: Chronic lung disease, symptoms include coughing, wheezing, shortness of breath, and chest tightness.\n\n### Red Flags\n- Asthma: Severe symptoms that require emergency health care and hospitalization.\n- COPD: Frequent flare-ups, difficulty breathing even when resting, blue lips or fingertips, rapid heartbeat, confusion, anxiety, or feeling disoriented.\n\n### Recommended Actions\n- Asthma: Speak to a health professional, use inhaled medication as prescribed, avoid asthma triggers.\n- COPD: Quit smoking or vaping, stay physically active, protect yourself from lung infections, use inhalers and other medications as prescribed.\n\n### Safety Disclaimer\n- Seek professional medical advice for any breathing problem.",
+    "relevance":3,
+    "faithfulness":5,
+    "correctness":3,
+    "context_precision":1.9318961352,
+    "context_recall":2.9452085495
+  },
+  {
+    "question":"Can air pollution worsen existing lung disease?",
+    "answer":"### Summary\nChronic obstructive pulmonary disease (COPD) is a lung disease characterized by restricted airflow and breathing problems. It is caused by damage or clogging of the lungs due to smoking and air pollution. People with COPD are at a higher risk for other health problems, including lung infections, lung cancer, heart problems, weak muscles, brittle bones, depression, and anxiety.\n\n### Possible Causes\n- Tobacco smoking\n- Air pollution\n- Occupational exposure to dusts, fumes, or chemicals\n- Indoor air pollution from biomass fuel or coal\n- Early life events such as poor growth in utero, prematurity, and frequent or severe respiratory infections in childhood\n- Asthma in childhood\n- Alpha-1 antitrypsin deficiency\n\n### Red Flags\n- Rapid worsening of symptoms\n- Difficulty carrying out normal daily activities\n- Considerable financial burden due to medical treatment and loss of productivity\n\n### Recommended Actions\n- Avoid smoking and exposure to air pollution\n- Get vaccines to prevent infections\n- Treat with medicines, oxygen, and pulmonary rehabilitation\n\n### Safety Disclaimer\nPeople with COPD should consult their healthcare provider for personalized treatment recommendations.",
+    "relevance":3,
+    "faithfulness":5,
+    "correctness":3,
+    "context_precision":2.4936760962,
+    "context_recall":3.7259286642
+  },
+  {
+    "question":"What lifestyle changes help with chronic lung disease?",
+    "answer":":\n\n### Summary\n- Chronic obstructive pulmonary disease (COPD) is a common lung disease causing restricted airflow and breathing problems.\n- Tobacco smoking and air pollution are the most common causes.\n- Symptoms include difficulty breathing, chronic cough, feeling tired, and increased risk for other health problems.\n\n### Possible Causes\n- Tobacco smoking\n- Air pollution\n\n### Red Flags\n- Rapid worsening of symptoms\n- Frequent flare-ups\n- Increased risk for other health problems (lung infections, lung cancer, heart problems, weak muscles and brittle bones, depression and anxiety)\n\n### Recommended Actions\n- Quit smoking or vaping\n- Avoid second-hand smoke or smoke from indoor cooking fires\n- Stay physically active\n- Protect yourself from lung infections: Get a flu vaccine every year. Get the pneumonia vaccine. Get all available COVID-19 vaccines and make sure you have had the latest boosters.\n\n### Safety Disclaimer\n- COPD is not curable but symptoms can improve with lifestyle changes and medical treatment.",
+    "relevance":3,
+    "faithfulness":5,
+    "correctness":3,
+    "context_precision":2.458268106,
+    "context_recall":2.9255200922
+  },
+  {
+    "question":"How do COPD and asthma differ in symptoms?",
+    "answer":"### Summary\nCOPD and asthma are two distinct respiratory conditions with some overlapping symptoms. COPD is characterized by progressive lung damage, while asthma is a chronic inflammatory disease of the airways.\n\n### Possible Causes\n- COPD: destruction of lung tissue, mucus blockage, inflammation, and swelling of the airway lining due to various risk factors like tobacco exposure, occupational hazards, indoor air pollution, and genetic conditions.\n- Asthma: inflammation and narrowing of the airways due to allergens, irritants, or other triggers.\n\n### Red Flags\n- COPD: difficulty carrying out daily activities, significant financial burden, and increased risk for other health problems like lung infections, lung cancer, heart problems, weak muscles, brittle bones, depression, and anxiety.\n- Asthma: severe symptoms that require emergency health care and hospitalization, and potential life-threatening consequences.\n\n### Recommended Actions\n- COPD: quit smoking, avoid second-hand smoke, improve indoor air quality, and consider medical treatments like bronchodilators, corticosteroids, and oxygen therapy.\n- Asthma: identify and avoid triggers, use inhaled medication as prescribed, and follow a comprehensive asthma management plan.\n\n### Safety Disclaimer\nAlways",
+    "relevance":3,
+    "faithfulness":5,
+    "correctness":5,
+    "context_precision":3.1853273511,
+    "context_recall":3.3677348495
+  },
+  {
+    "question":"What are signs of tuberculosis affecting the lungs?",
+    "answer":"#### Summary\nTuberculosis (TB) is a bacterial infection that can affect various organs, including the lungs. Symptoms of TB in the lungs include prolonged cough, chest pain, weakness, fatigue, weight loss, fever, and night sweats.\n\n#### Possible Causes\n- TB bacteria multiply in the body and affect the lungs\n- Weakened immune system due to conditions like diabetes, HIV, undernutrition, tobacco use, and harmful use of alcohol can increase the risk of TB disease\n\n#### Red Flags\n- Severe and persistent symptoms despite treatment\n- Symptoms in infants and young children\n- Presence of other diseases like HIV or diabetes\n\n#### Recommended Actions\n- Seek medical attention if experiencing symptoms\n- Early treatment can help stop the spread of disease and improve chances of recovery\n\n#### Safety Disclaimer\nEarly diagnosis and treatment of TB are crucial to prevent the spread of the disease and improve recovery chances.",
+    "relevance":3,
+    "faithfulness":5,
+    "correctness":3,
+    "context_precision":1.7995678633,
+    "context_recall":2.4578152597
+  },
+  {
+    "question":"What are general warning signs for lung cancer?",
+    "answer":"#### Summary\nLung cancer is a possible health complication for individuals with chronic obstructive pulmonary disease (COPD). COPD is a progressive lung disease characterized by restricted airflow and breathing problems. It is often caused by smoking and air pollution.\n\n#### Possible Causes\n- Tobacco smoking\n- Air pollution\n- Genetic conditions (rare)\n\n#### Red Flags\n- Rapid worsening of COPD symptoms\n- Persistent cough with phlegm\n- Unexplained weight loss\n- Chest pain\n- Hoarseness or voice changes\n- Swelling in the legs, ankles, or feet\n- Shortness of breath during normal activities or at rest\n\n#### Recommended Actions\n- Avoid smoking and exposure to air pollution\n- Get vaccines to prevent infections\n- Use medications as prescribed\n- Consider oxygen therapy\n- Participate in pulmonary rehabilitation programs\n\n#### Safety Disclaimer\nIf you suspect lung cancer or experience any of the red flags, consult a healthcare professional immediately.",
+    "relevance":3,
+    "faithfulness":5,
+    "correctness":3,
+    "context_precision":1.8408385664,
+    "context_recall":3.2654795051
+  }
+]
