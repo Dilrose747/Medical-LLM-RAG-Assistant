@@ -1,4 +1,4 @@
-# Medical Question-Answering Assistant using Fine-Tuned Mistral-7B + RAG
+# MedMistral-7B: Fine-Tuning + RAG for Medical Question Answering
 
 This project builds a **medical question-answering assistant** using a **fine-tuned Mistral-7B LLM** combined with a **Retrieval-Augmented Generation (RAG)** pipeline.  
 The assistant provides structured, safety-oriented answers for respiratory health topics such as **COPD, Asthma, Pneumonia, Tuberculosis, and Influenza** using evidence retrieved from **WHO fact sheets**.
