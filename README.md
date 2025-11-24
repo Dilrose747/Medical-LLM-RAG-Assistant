@@ -116,13 +116,13 @@ All evaluations use offline **FLAN-T5** due to Kaggle’s no-internet environmen
 ## 📦 Deployment
 
 This model is not deployed due to high GPU requirements.
-Inference is performed via Kaggle notebooks or local GPU setups.
+Inference is performed via Kaggle notebooks.
 
 ---
 
 ## Author
 
-Mohamed Dilrose P M
-M.Sc. Statistics | Data Scientist
-📧 mohameddilrose2018@gmail.com
-🔗 https://www.linkedin.com/in/mohamed-dilrose-365554230/
+- Mohamed Dilrose P M
+- M.Sc. Statistics | Data Scientist
+- 📧 mohameddilrose2018@gmail.com
+- 🔗 https://www.linkedin.com/in/mohamed-dilrose-365554230/
